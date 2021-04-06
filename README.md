@@ -8,7 +8,7 @@ To regenerate the JAR executable, run ```mvn clean compile assembly:single```
 ## Teaser
 
 <p float="left">
-  <img src="images/LevelSelector.png" width="200" />
-  <img src="images/OpenSpace.png" width="200" /> 
-  <img src="images/Labyrinth.png" width="200" />
+  <img src="images/LevelSelector.png" width="200" height="200" />
+  <img src="images/OpenSpace.png" width="200" height="200" /> 
+  <img src="images/LightLabyrinth.png" width="200" height="200" />
 </p>
