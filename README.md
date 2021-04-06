@@ -7,6 +7,8 @@ To regenerate the JAR executable, run ```mvn clean compile assembly:single```
 
 ## Teaser
 
-![alt text](https://github.com/Squalene/GridGame/tree/main/images/LevelSelector.png)
-![alt text](https://github.com/Squalene/GridGame/tree/main/images/OpenSpace.png)
-![alt text](https://github.com/Squalene/GridGame/tree/main/images/Labyrinth.png)
+<p float="left">
+  <img src="images/LevelSelector.png" width="200" />
+  <img src="images/OpenSpace.png" width="200" /> 
+  <img src="images/Labyrinth.png" width="200" />
+</p>
